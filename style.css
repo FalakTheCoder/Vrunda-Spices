@@ -13,8 +13,8 @@ body
 }
 #bio {
     font-family: 'Cinzel Decorative', cursive;
-    padding: 50px;
     text-align: center;
+    background: linear-gradient(#ff0505 0%, #080808 100%);
 }
 h1 {
     font-size: 40px;
@@ -52,3 +52,9 @@ input
 {
     background: grey;
 }
+
+#catalog
+{
+    margin-left: 475px;
+}
+
